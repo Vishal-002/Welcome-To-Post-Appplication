@@ -58,7 +58,7 @@ const SignUp: React.FC = () => {
   return (
     <Layout>
       <div className="max-w-md mx-auto mt-8 p-4 border rounded shadow">
-      <h1 className="text-2xl font-semibold mb-4">Sign Up</h1>
+      <h1 className="text-2xl font-semibold mb-4 text-white">Sign Up</h1>
       <form>
         <div className="mb-4">
           <label
