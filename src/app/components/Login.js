@@ -145,7 +145,7 @@ const Login = () => {
 
   return (
     <div className="max-w-md mx-auto mt-10 p-8 border rounded shadow">
-      <h1 className="text-2xl font-semibold mb-4">Login</h1>
+      <h1 className="text-2xl font-semibold mb-4 text-white">Login</h1>
       <form>
         <div className="mb-4">
           <label
